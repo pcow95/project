@@ -1,0 +1,61 @@
+.btn-group button {
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+    border-color: white;
+    border-radius: 16px;
+    border-width: 4px;
+    margin: 10px;
+    font-size: 20px;
+    width: 200px;
+    font-family: roboto, sans-serif;
+    
+}
+
+.btn-group button:hover {
+    background-color: #92d36e;
+}
+
+.btn-group {
+    font-family:roboto, sans serif;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    max-width: 100%
+  }  
+ 
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: black;
+    font-weight: 600;
+    text-shadow: white 3PX 3PX 3PX ;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+.button button{
+    position:absolute;
+    top: 76%;
+    left: 44%;
+    font-size: 60px;
+    color:black;
+    font-weight: 500;
+    font-family:roboto, sans-serif;
+    background-color: white;
+    border-width: 5px;
+    text-shadow: white 3px 3px 3px;
+    padding: 10px 10px 10px 10px;
+
+}
+.button button:hover {
+    background-color: grey;
+
+}
